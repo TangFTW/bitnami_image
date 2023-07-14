@@ -1,0 +1,1 @@
+# bitnami_image
